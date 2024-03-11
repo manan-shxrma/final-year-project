@@ -57,20 +57,3 @@ Train/val/test split
 
 
 --------------------------------------
-If you find this work useful for your research, please consider citing our work:
---------------------------------------
-@inproceedings{mehta2019dif,
-  title={DIF: Dataset of Perceived Intoxicated Faces for Drunk Person Identification},
-  author={Mehta, Vineet and Katta, Sai Srinadhu and Yadav, Devendra Pratap and Dhall, Abhinav},
-  booktitle={2019 International Conference on Multimodal Interaction},
-  pages={367--374},
-  year={2019},
-  organization={ACM}
-}
-
---------------------------------------
-For more details
----------------------------------------
-1. Vgg_face model used: https://gist.github.com/EncodeTS/6bbe8cb8bebad7a672f0d872561782d9
-2. opensmile library: https://www.audeering.com/opensmile/
-3. DIF website: https://sites.google.com/view/difproject/home
